@@ -1,0 +1,10 @@
+*.suo
+*.user
+/ipch
+/.vs
+/*.opensdf
+/*.sdf
+/*.VC.db
+/*.VC.VC.opendb
+GeneratedFiles
+/_ReSharper.Caches
